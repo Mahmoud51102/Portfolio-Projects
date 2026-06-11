@@ -1,8 +1,8 @@
-\# Student Performance Prediction
+# Student Performance Prediction
 
 
 
-\## Overview
+## Overview
 
 
 
@@ -14,11 +14,11 @@ The study combines statistical analysis and machine learning to provide insights
 
 
 
-\---
+---
 
 
 
-\## Problem Statement
+## Problem Statement
 
 
 
@@ -26,11 +26,11 @@ Student performance is influenced by multiple factors, including study habits, a
 
 
 
-\---
+---
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -38,113 +38,113 @@ The dataset contains information about student demographics, lifestyle habits, a
 
 
 
-\### Features Include:
+### Features Include:
 
 
 
-\* Age
+* Age
 
-\* Gender
+* Gender
 
-\* Study hours per day
+* Study hours per day
 
-\* Social media usage
+* Social media usage
 
-\* Netflix usage
+* Netflix usage
 
-\* Attendance percentage
+* Attendance percentage
 
-\* Sleep hours
+* Sleep hours
 
-\* Exercise frequency
+* Exercise frequency
 
-\* Mental health rating
+* Mental health rating
 
-\* Parental education level
+* Parental education level
 
-\* Diet quality
+* Diet quality
 
-\* Internet quality
+* Internet quality
 
-\* Extracurricular participation
+* Extracurricular participation
 
-\* Part-time job status
+* Part-time job status
 
 
 
-\### Target Variable
+### Target Variable
 
 
 
-\* Student Exam Performance Category
+* Student Exam Performance Category
 
 
 
-\---
+---
 
 
 
-\## Project Workflow
+## Project Workflow
 
 
 
-\### 1. Exploratory Data Analysis (EDA)
+### 1. Exploratory Data Analysis (EDA)
 
 
 
-\* Descriptive statistics
+* Descriptive statistics
 
-\* Distribution analysis
+* Distribution analysis
 
-\* Histograms and visualizations
+* Histograms and visualizations
 
-\* Correlation analysis
+* Correlation analysis
 
-\* Numerical vs categorical feature analysis
+* Numerical vs categorical feature analysis
 
-\* Outlier investigation
+* Outlier investigation
 
 
 
-\### 2. Data Preprocessing
+### 2. Data Preprocessing
 
 
 
-\* Missing value handling
+* Missing value handling
 
-\* Duplicate checking
+* Duplicate checking
 
-\* Categorical feature encoding
+* Categorical feature encoding
 
-\* Feature scaling
+* Feature scaling
 
-\* Feature engineering
+* Feature engineering
 
-\* Class imbalance treatment using SMOTE
+* Class imbalance treatment using SMOTE
 
 
 
-\### 3. Dimensionality Reduction
+### 3. Dimensionality Reduction
 
 
 
-\* Principal Component Analysis (PCA)
+* Principal Component Analysis (PCA)
 
-\* Variance explained analysis
+* Variance explained analysis
 
 
 
-\### 4. Unsupervised Learning
+### 4. Unsupervised Learning
 
 
 
-\* Exploratory clustering analysis
+* Exploratory clustering analysis
 
-\* Pattern discovery among student groups
+* Pattern discovery among student groups
 
 
 
-\### 5. Supervised Machine Learning
+### 5. Supervised Machine Learning
 
 
 
@@ -152,23 +152,23 @@ The following models were developed and evaluated:
 
 
 
-\* Random Forest Classifier
+* Random Forest Classifier
 
-\* Logistic Regression
-
-
-
-\### 6. Hyperparameter Optimization
+* Logistic Regression
 
 
 
-\* Grid Search
-
-\* K-Fold Cross Validation
+### 6. Hyperparameter Optimization
 
 
 
-\### 7. Model Evaluation
+* Grid Search
+
+* K-Fold Cross Validation
+
+
+
+### 7. Model Evaluation
 
 
 
@@ -176,71 +176,71 @@ Performance was assessed using:
 
 
 
-\* Accuracy
+* Accuracy
 
-\* Precision
+* Precision
 
-\* Recall
+* Recall
 
-\* F1 Score
+* F1 Score
 
-\* Confusion Matrix
+* Confusion Matrix
 
-\* Cross-validation metrics
-
-
-
-\---
+* Cross-validation metrics
 
 
 
-\## Technologies Used
+---
 
 
 
-\* Python
-
-\* Pandas
-
-\* NumPy
-
-\* Matplotlib
-
-\* Seaborn
-
-\* Scikit-learn
-
-\* Imbalanced-learn (SMOTE)
-
-\* Google Colab / Jupyter Notebook
+## Technologies Used
 
 
 
-\---
+* Python
+
+* Pandas
+
+* NumPy
+
+* Matplotlib
+
+* Seaborn
+
+* Scikit-learn
+
+* Imbalanced-learn (SMOTE)
+
+* Google Colab / Jupyter Notebook
 
 
 
-\## Key Objectives
+---
 
 
 
-\* Understand the relationship between student habits and academic performance.
-
-\* Build predictive machine learning models.
-
-\* Compare classification approaches.
-
-\* Identify the most important predictors of student success.
-
-\* Generate actionable insights from educational data.
+## Key Objectives
 
 
 
-\---
+* Understand the relationship between student habits and academic performance.
+
+* Build predictive machine learning models.
+
+* Compare classification approaches.
+
+* Identify the most important predictors of student success.
+
+* Generate actionable insights from educational data.
 
 
 
-\## Results \& Insights
+---
+
+
+
+## Results & Insights
 
 
 
@@ -248,15 +248,15 @@ The analysis demonstrates that academic performance is strongly associated with 
 
 
 
-\---
+---
 
 
 
-\## Author
+## Author
 
 
 
-\*\*Mahmoud Nweija\*\*
+**Mahmoud Nweija**
 
 
 
